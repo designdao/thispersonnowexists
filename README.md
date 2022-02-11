@@ -1,7 +1,5 @@
 # This Person Now Exists
 
-First NFT project from DesignDao
-
 "This Person Now Exists" is an experimental NFT project that combines randomly generated portraits using thispersondoesnotexist.com and Avatar SDK.
 
 ThisPersonDoesNotExist.com uses Nvidia’s publicly available artificial intelligence technology to draw an invented, photo-realistic human being with each refresh. Combined with Avatar SDK we are able to create 3D avatars from these portraits.
