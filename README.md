@@ -1,4 +1,5 @@
-# thispersonnowexists
+# This Person Now Exists
+
 First NFT project from DesignDao
 
 "This Person Now Exists" is an experimental NFT project that combines randomly generated portraits using thispersondoesnotexist.com and Avatar SDK.
